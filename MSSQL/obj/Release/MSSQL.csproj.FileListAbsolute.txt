@@ -1,6 +1,0 @@
-C:\ProjectMe\GitHub\MSSQL\MSSQL\bin\Release\MSSQL.dll
-C:\ProjectMe\GitHub\MSSQL\MSSQL\bin\Release\MSSQL.pdb
-C:\ProjectMe\GitHub\MSSQL\MSSQL\obj\Release\MSSQL.csprojAssemblyReference.cache
-C:\ProjectMe\GitHub\MSSQL\MSSQL\obj\Release\MSSQL.csproj.CoreCompileInputs.cache
-C:\ProjectMe\GitHub\MSSQL\MSSQL\obj\Release\MSSQL.dll
-C:\ProjectMe\GitHub\MSSQL\MSSQL\obj\Release\MSSQL.pdb

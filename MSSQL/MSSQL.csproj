@@ -41,9 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MSSQL_Connection.cs" />
-    <Compile Include="MSSQL_Model.cs" />
+    <Compile Include="Model\MSSQL_Model.cs" />
+    <Compile Include="Module\MSSQL_Connection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transact\Data\DataGrid.cs" />
+    <Compile Include="Transact\Data\Type.cs" />
+    <Compile Include="Transact\MSSqlConnection.cs" />
+    <Compile Include="Transact\MSSqlRegisters.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
