@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\MSSQL_Model.cs" />
     <Compile Include="Module\MSSQL_Connection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Transact\Data\DataGrid.cs" />

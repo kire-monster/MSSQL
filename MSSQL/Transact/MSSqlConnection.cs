@@ -27,7 +27,7 @@ namespace MSSQL.Transact
         public bool StatusError { get => _StatusError; }
         public string MessageError { get => _MessageError; }
         public string ConnectionString { set => _ConnectionString = value; }
-        public int SetCommandTimeout { set => _CommandTimeout = value; }
+        public int CommandTimeout { set => _CommandTimeout = value; }
 
 
         private bool _StatusError = false;
